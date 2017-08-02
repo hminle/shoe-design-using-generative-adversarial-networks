@@ -18,13 +18,9 @@ shoe-design-using-generative-adversarial-networks
 |--- data: original dataset
 | 
 |--- experiment
-|
-|--- results
-
-
 ```
 
-In **experiment** directory, you can find our notebooks which define DCGAN Networks and some modification.
+In **experiment** directory, you can find our notebooks which define DCGAN Networks and some modifications.
 
 ### Dataset
 
@@ -83,7 +79,7 @@ Pure DCGAN with spherical noise
 
 ![ex4](https://user-images.githubusercontent.com/16201681/28861893-ef3a2cce-779d-11e7-9c01-033edc4aee19.png)
 
-### Some Conclusions
+### Conclusions
 
 - GANs is extremely unstable and hard to train.
 - The common case is that the discriminator became too powerful and was able to easily make the distinction between real and fake images while the generator was still dumb.
