@@ -10,14 +10,14 @@ This is also used as a final project for the course __Deep Learning for Visual R
 ```
 Shoes Creation
 │   README.md
+|   report.pdf
 |
 |--- data: original dataset
 | 
 |--- experiment
 |
 |--- results
-|
-|--- report
+
 
 ```
 ### Requirement
