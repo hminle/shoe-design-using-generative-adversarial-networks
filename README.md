@@ -1,4 +1,5 @@
-hoe Design using Generative Adversarial Networks
+# Shoe Design using Generative Adversarial Networks
+
 **Author: [Hoang Le](https://github.com/hminle) - [Hoang Nguyen](https://github.com/hoangnguyen3892)**
 
 This repository developed a Generative Adversarial Nets (GANs) to design and generate new shoes images. Many improvement techniques were implemented to enhance the performance of the model as well as the quality of the output.
@@ -10,7 +11,7 @@ For more information, you guys can read our report.
 ### Directory structure:
 
 ```
-Shoes Creation
+shoe-design-using-generative-adversarial-networks
 │   README.md
 |   report.pdf
 |
@@ -83,7 +84,7 @@ Pure DCGAN with spherical noise
 
 - GANs is extremely unstable and hard to train.
 - The common case is that the discriminator became too powerful and was able to easily make the distinction between real and fake images while the generator was still dumb.
-- With some methods proposed, the results from the generative model were im-proved.
+- With some methods proposed, the results from the generative model were improved.
 - There are some artifacts that we can easily observe.
 
 ### Requirement
@@ -94,7 +95,7 @@ Pure DCGAN with spherical noise
 
 ### Acknowledgments
 
-Thank to [Du Phan](https://github.com/fehiepsi) for your guidance, without it we cannot finish this project.
+Thank [Du Phan](https://github.com/fehiepsi) for your guidance, without it we cannot finish this project.
 
 ### References
 See our report for detail.
