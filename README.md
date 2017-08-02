@@ -28,9 +28,12 @@ In **experiment** directory, you can find our notebooks which define DCGAN Netwo
 
 ### Dataset
 
-In this project, we consider shoes dataset: **UT Zappos50K**
+In this project, we consider shoes dataset: [UT Zappos50K](http://vision.cs.utexas.edu/projects/finegrained/utzap50k/)
 The dataset consists of over 50,000 images
 Sneaker type is dominant in the dataset (12856 images), so we decide to use only sneakers' images as the main data source.
+
+We put the data dir like this: 
+```data/ut-zap50k/Shoes/Sneakers_and_athletic_shoes/```
 
 ### Methods
 **Baseline Model**
