@@ -1,6 +1,6 @@
 # Shoe Design using Generative Adversarial Networks
 
-**Author: [Hoang Le](https://github.com/hminle) - [Hoang Nguyen](https://github.com/hoangnguyen3892)**
+**Author: [Hoang Le](https://github.com/hminle) - [Hoang Nguyen](https://github.com/hoangntc)**
 
 This repository developed a Generative Adversarial Nets (GANs) to design and generate new shoes images. Many improvement techniques were implemented to enhance the performance of the model as well as the quality of the output.
 
